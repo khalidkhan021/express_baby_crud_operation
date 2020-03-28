@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-express-baby-step",
+  "version": "1.0.0",
+  "description": "aaa",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "joi": "^14.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalidkhan021/Nodejs.git"
+  },
+  "keywords": [
+    "aa"
+  ],
+  "author": "khalid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalidkhan021/Nodejs/issues"
+  },
+  "homepage": "https://github.com/khalidkhan021/Nodejs#readme"
+}
